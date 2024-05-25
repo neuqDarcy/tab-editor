@@ -1,0 +1,11 @@
+{
+    "contextMenuTitle": {
+      "message": "Rename Tab",
+      "description": "Title for the context menu item to rename the tab"
+    },
+    "renamePrompt": {
+      "message": "Please enter a new tab name:",
+      "description": "Prompt message for renaming the tab"
+    }
+  }
+  

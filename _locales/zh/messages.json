@@ -1,0 +1,11 @@
+{
+    "contextMenuTitle": {
+      "message": "重命名标签页",
+      "description": "Title for the context menu item to rename the tab"
+    },
+    "renamePrompt": {
+      "message": "请输入新的标签页名称:",
+      "description": "Prompt message for renaming the tab"
+    }
+  }
+  
